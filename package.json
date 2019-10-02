@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ipfs": "^0.38.0",
+    "ipfs-http-client": "^38.0.0",
+    "ipfs-pubsub-room": "^1.4.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.1.2"
